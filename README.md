@@ -8,7 +8,6 @@ I mainly use Windows and iOS, and I like building software with a variety of lan
 ![](https://img.shields.io/badge/Reverse%20Engineering-5e5654?style=for-the-badge)
 ![](https://img.shields.io/badge/Cybersecurity-4a4442?style=for-the-badge)\
 ![](https://img.shields.io/badge/UI%20Design-7B61FF?style=for-the-badge)
-![](https://img.shields.io/badge/Interface%20Design-5e5654?style=for-the-badge)
 ![](https://img.shields.io/badge/Design-FF7262?style=for-the-badge)\
 ![](https://img.shields.io/badge/Electronics-5e5654?style=for-the-badge)
 ![](https://img.shields.io/badge/Hardware-4f4a49?style=for-the-badge)
